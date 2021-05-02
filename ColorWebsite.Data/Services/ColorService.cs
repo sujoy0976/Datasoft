@@ -20,6 +20,8 @@ namespace ColorWebsite.Data.Services
             using(var dc = new DataContext())
             {
                 result = dc.Colors.ToList();
+
+                if(result.Count() ==0) { InsertRandomColors(); result = dc.Colors.ToList(); }
             }
 
             return result;
