@@ -115,6 +115,8 @@ F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\ColorWebsite.Data.dl
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\EntityFramework.dll
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\EntityFramework.SqlServer.dll
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\Microsoft.Configuration.ConfigurationBuilders.Environment.dll
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\Microsoft.Web.Infrastructure.dll
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\Newtonsoft.Json.dll
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\System.Web.Helpers.dll
@@ -130,6 +132,8 @@ F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\ColorWebsite.Data.dl
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\EntityFramework.xml
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\EntityFramework.SqlServer.xml
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\Microsoft.Configuration.ConfigurationBuilders.Environment.xml
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\System.Web.Helpers.xml
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\System.Web.Mvc.xml
 F:\PluralSight\Azure App Service\Chapter 2\ColorWebsite\bin\System.Web.Optimization.xml
