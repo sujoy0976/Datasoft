@@ -22,6 +22,8 @@ namespace ColorWebsite.Data.Services
                 result = dc.Colors.ToList();
 
                 if(result.Count() ==0) { InsertRandomColors(); result = dc.Colors.ToList(); }
+
+                var m = 10;
             }
 
             return result;
