@@ -1,6 +1,7 @@
 ﻿using ColorWebsite.Data.Services;
 using System;
 using System.Web.Mvc;
+using System.Configuration;
 
 namespace ColorWebsite.Controllers
 {
@@ -16,7 +17,10 @@ namespace ColorWebsite.Controllers
         public ActionResult Index()
         {
             var model =_colorService.GetAllColors();
-            
+
+            var computername = ConfigurationManager.AppSettings;
+
+            model[0].computername = computername["COMPUTERNAME"];
             return View(model);
         }
     }

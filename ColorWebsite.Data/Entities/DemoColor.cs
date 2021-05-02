@@ -6,5 +6,6 @@
 
         public string Name { get; set; }
 
+        public string computername { get; set; }
     }
 }
